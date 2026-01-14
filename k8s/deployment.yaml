@@ -1,0 +1,36 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: paymentsapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: paymentsapi
+  template:
+    metadata:
+      labels:
+        app: paymentsapi
+    spec:
+      containers:
+        - name: paymentsapi
+          image: ghcr.io/yourorg/fcg_f02_paymentsapi:latest
+          ports:
+            - containerPort: 8080
+          env:
+            - name: RabbitMQ__Host
+              valueFrom:
+                configMapKeyRef:
+                  name: paymentsapi-config
+                  key: RABBITMQ_HOST
+            - name: RabbitMQ__User
+              valueFrom:
+                configMapKeyRef:
+                  name: paymentsapi-config
+                  key: RABBITMQ_USER
+            - name: RabbitMQ__Pass
+              valueFrom:
+                configMapKeyRef:
+                  name: paymentsapi-config
+                  key: RABBITMQ_PASS
