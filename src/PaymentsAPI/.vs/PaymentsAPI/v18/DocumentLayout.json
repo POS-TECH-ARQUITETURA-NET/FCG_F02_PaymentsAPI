@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|c:\\projetos\\fcg_f02_paymentsapi\\src\\paymentsapi\\events\\paymentprocessedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|solutionrelative:events\\paymentprocessedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|c:\\projetos\\fcg_f02_paymentsapi\\src\\paymentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|c:\\projetos\\fcg_f02_paymentsapi\\src\\paymentsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|c:\\projetos\\fcg_f02_paymentsapi\\src\\paymentsapi\\events\\orderplacedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|solutionrelative:events\\orderplacedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|c:\\projetos\\fcg_f02_paymentsapi\\src\\paymentsapi\\consumers\\ordersconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|solutionrelative:consumers\\ordersconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|c:\\projetos\\fcg_f02_paymentsapi\\src\\paymentsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B5A137C-6420-9BB4-AA83-401EC5A2E9AA}|PaymentsAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:21:41.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-17T01:21:37.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentProcessedEvent.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Events\\PaymentProcessedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\PaymentProcessedEvent.cs",
+              "ToolTip": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Events\\PaymentProcessedEvent.cs",
+              "RelativeToolTip": "Events\\PaymentProcessedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:21:23.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderPlacedEvent.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Events\\OrderPlacedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\OrderPlacedEvent.cs",
+              "ToolTip": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Events\\OrderPlacedEvent.cs",
+              "RelativeToolTip": "Events\\OrderPlacedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:21:18.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersConsumer.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Consumers\\OrdersConsumer.cs",
+              "RelativeDocumentMoniker": "Consumers\\OrdersConsumer.cs",
+              "ToolTip": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Consumers\\OrdersConsumer.cs",
+              "RelativeToolTip": "Consumers\\OrdersConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:20:17.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projetos\\FCG_F02_PaymentsAPI\\src\\PaymentsAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-17T01:20:04.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: paymentsapi
-          image: ghcr.io/yourorg/fcg_f02_paymentsapi:latest
+          image: docker.io/augustogc/fcg_f02_paymentsapi:0.1.0
           ports:
             - containerPort: 8080
           env:
